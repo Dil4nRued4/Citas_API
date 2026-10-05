@@ -1,0 +1,5 @@
+# AGENTS.md
+
+Este archivo debe ser generado/depurado usando `../prompts/agents/PROMPT_AGENT_CITAS_API.md` una vez exista el proyecto Spring Boot real. No uses esta plantilla como instrucciones finales sin inspeccionar el repositorio.
+
+Para documentar conocimiento durable del backend, consulta y mantén la Wiki local en `wiki/` según `wiki/AGENTS.md`; enlázala con la Wiki global `../wiki/` y no confundas requisitos del PRD con comportamiento implementado.
